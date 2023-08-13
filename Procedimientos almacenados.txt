@@ -1,0 +1,11 @@
+Procedimientos almacenados
+LoginUsuario
+Alta empleado
+Alta compañia
+Alta Viajes
+Alta terminal nacional
+Baja terminal nacional
+Modificar terminal nacional
+Alta terminal internacional
+Baja terminal internacional
+Modificar terminal internacional
